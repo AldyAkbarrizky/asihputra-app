@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asihputra-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/asihputra-app/static/js/main.966b0487.chunk.js",
+    "main.js.map": "/asihputra-app/static/js/main.966b0487.chunk.js.map",
+    "runtime-main.js": "/asihputra-app/static/js/runtime-main.2f44b0e2.js",
+    "runtime-main.js.map": "/asihputra-app/static/js/runtime-main.2f44b0e2.js.map",
+    "static/js/2.67f26d31.chunk.js": "/asihputra-app/static/js/2.67f26d31.chunk.js",
+    "static/js/2.67f26d31.chunk.js.map": "/asihputra-app/static/js/2.67f26d31.chunk.js.map",
+    "index.html": "/asihputra-app/index.html",
+    "precache-manifest.f5e0ea68e30f5fca97ff74505cf83f0e.js": "/asihputra-app/precache-manifest.f5e0ea68e30f5fca97ff74505cf83f0e.js",
+    "service-worker.js": "/asihputra-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/asihputra-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.67f26d31.chunk.js.LICENSE.txt": "/asihputra-app/static/js/2.67f26d31.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/asihputra-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f44b0e2.js",
+    "static/js/2.67f26d31.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.966b0487.chunk.js"
+  ]
+}
